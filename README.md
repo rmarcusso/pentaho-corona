@@ -1,6 +1,6 @@
 # pentaho-corona
-Apresentação dos dados da covid-19 no mundo com base nos dados levantados pela Bing
+The version used of Pentaho was 8.0
 
-Dashboard desenvolvido com os dados coletados da Bing (https://www.bing.com/covid/).
+Dashboard of  indicators of COVID-19 in the world based in datas from Bing presentated in https://www.bing.com/covid/
 
-Usei técnicas de ETL com o PDI (Pentaho Data Integration) e desenvolvi o Dashboard com CDE (Community Dashboard Editor)
+In whole process was used ETL techniques on PDI (Pentaho Data Integration) and the Dashboard with CDE (Community Dashboard Editor)

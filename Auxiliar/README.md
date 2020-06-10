@@ -1,4 +1,4 @@
-# Auxiliar Datas
+# Auxiliary Datas
 Auxiliary data used to develop some indicators.
 
 ## CodigoPaises.csv
