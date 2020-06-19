@@ -1037,7 +1037,7 @@ FROM "public".dim_tempo</sql>
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>C:\pentaho\pentaho-server-ce-8.3.0.0-371\pentaho-solutions\system\CoronaVirus\resources\data/endpoint_evolucao_mundo</name>
+      <name>${Internal.Entry.Current.Directory}/endpoint_evolucao_mundo</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>
