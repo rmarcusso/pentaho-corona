@@ -7,4 +7,4 @@ In whole process was used ETL techniques on PDI (Pentaho Data Integration) and t
 
 ## Dashboard in execution
 
-[![Dashboard in execution](https://i.imgur.com/85yCVa4.png)](https://youtu.be/gQMOFfqiJ_s)
+![Alt Text](https://i.giphy.com/media/jsTzrM2NDXFWADlMRJ/source.gif)
